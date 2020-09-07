@@ -1,7 +1,5 @@
 @charset "UTF-8";
 
-/*** Custom fonts ***/
-@import url('./src/blubook/fonts.css');
 
 /*** Color setting ***/
 :root {
